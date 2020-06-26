@@ -790,12 +790,12 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.ltc-white {
-    color: #FFFFFF!important;
+.tc-white {
+    color: #020202!important;
 }
 
-.ltc-white:hover {
-    color: #cccccc!important;
+.tc-white:hover {
+    color: #020202!important;
 }
 
 .ltc-atomic-tangerine {
