@@ -4,6 +4,9 @@
 #bloc-2-services_ajout2 span{font-size:14px;font-style:normal;}
 #bloc-4-portfolio__title{font-size:22px;color:#707070 !important;}
 h2 {
-  color: white !important;
+  background-color: white !important;
+  color:black!important;
 }
-#pied{ color:black!important}
+#pied{
+  background-color: white!important; 
+  color:black!important;}
