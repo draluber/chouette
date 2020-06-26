@@ -23,7 +23,7 @@ a:hover{text-decoration:none;cursor:pointer;}
 .bloc-bg-texture::before{content:"";background-size:2px 2px;position:absolute;top:0;bottom:0;left:0;right:0;}
 .texture-paper::before{background:url("img/texture-paper-compressor.png");background-size:280px 280px;}
 .b-parallax{background-attachment:fixed;}
-.d-bloc{color:rgba(255, 255, 255, .7);}
+.d-bloc{color:rgba(0, 0, 0, 0.7);}
 .d-bloc button:hover{color:rgba(255, 255, 255, .9);}
 .d-bloc .icon-round,
 .d-bloc .icon-square,
