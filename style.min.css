@@ -23,14 +23,14 @@ a:hover{text-decoration:none;cursor:pointer;}
 .bloc-bg-texture::before{content:"";background-size:2px 2px;position:absolute;top:0;bottom:0;left:0;right:0;}
 .texture-paper::before{background:url("img/texture-paper-compressor.png");background-size:280px 280px;}
 .b-parallax{background-attachment:fixed;}
-.d-bloc{color:rgba(0, 0, 0, 0.7);}
+.d-bloc{color:rgba(8, 8, 8, 0.7);}
 .d-bloc button:hover{color:rgba(255, 255, 255, .9);}
 .d-bloc .icon-round,
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
-.d-bloc .icon-semi-rounded-b{border-color:rgba(255, 255, 255, .9);}
-.d-bloc .divider-h span{border-color:rgba(255, 255, 255, .2);}
+.d-bloc .icon-semi-rounded-b{border-color:rgba(5, 5, 5, 0.9);}
+.d-bloc .divider-h span{border-color:rgba(3, 3, 3, 0.2);}
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
@@ -44,7 +44,7 @@ a:hover{text-decoration:none;cursor:pointer;}
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a,
-.d-bloc p a{color:rgba(255, 255, 255, .6);}
+.d-bloc p a{color:rgba(8, 8, 8, 0.6);}
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
