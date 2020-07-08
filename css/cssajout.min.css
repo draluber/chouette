@@ -1,8 +1,12 @@
 .bloc-2-services_ajout1{font-size:22px;margin-bottom:20px;}
-.bloc-2-services_ajout2{font-size:20px;font-style:italic;line-height:1.3em;}
-.bloc-2-services_ajout2 span{font-size:14px;font-style:normal;}
 .bloc-4-portfolio__title{font-size:22px;color:#0a0a0a !important;}
 h2{background-color:white !important;color:black!important;}
 .pied{background-color:white!important;color:black!important;}
 .noir{color:black!important;}
 .blanc{color:white!important;}
+blockquote p{
+    font-size:20px;font-style:italic;line-height:1.3em;
+}
+blockquote footer{
+    font-size:18px;font-style:normal;
+}
